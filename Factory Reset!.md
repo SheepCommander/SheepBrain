@@ -55,10 +55,10 @@ gh auth login
 - [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
 - [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
 - [x] Krita https://krita.org/en/download/
-- [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
+- [x] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 - [x] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [x] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
-- [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
+- [x] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
 - [x] Starward https://github.com/Scighost/Starward/releases/latest
 - [x] Heroic Games Launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/latest
 # Download Installer
