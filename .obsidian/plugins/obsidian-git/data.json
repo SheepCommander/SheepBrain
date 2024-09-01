@@ -1,7 +1,7 @@
 {
   "commitMessage": "{{hostname}} sync -- {{date}}",
   "commitDateFormat": "YY-MM.DD HH:mm",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 1,
   "autoPushInterval": 0,
   "autoPullInterval": 5,
   "autoPullOnBoot": true,
@@ -50,9 +50,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": true,
-    "gutterSpacingFallbackLength": 15,
+    "gutterSpacingFallbackLength": 16,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "natural language"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "{{hostname}} sync -- {{date}}"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/SAT/Math.md",
+                "file": "Daily/24-09.01-Su.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/SAT/Math.md",
+                "file": "Daily/24-09.01-Su.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/SAT/Math.md",
+                "file": "Daily/24-09.01-Su.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/SAT/Math.md"
+                "file": "Daily/24-09.01-Su.md"
               }
             }
           },
@@ -156,16 +156,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3c04d4f918ac948",
+  "active": "30032d1b31fbe6c6",
   "lastOpenFiles": [
-    "School/History/Ch2.md",
-    "School/SAT/Math.md",
-    "School/Driving/Driving Test.md",
-    "School/AP Phys/Units.md",
-    "School/AP Calc/Calculator.md",
     "Life I Want.md",
     "Factory Reset!.md",
     "DRIVING LOG.md",
+    "Ari/idr.md",
+    "School/SAT/Math.md",
+    "School/History/Ch2.md",
+    "School/Driving/Driving Test.md",
+    "School/AP Phys/Units.md",
+    "School/AP Calc/Calculator.md",
     "Daily/24-09.01-Su.md",
     "Untitled.canvas",
     "Untitled",
@@ -177,22 +178,21 @@
     "Daily/24-08.23-Fr.md",
     "Daily/24-08.24-Sa.md",
     "Factory Reset.md",
-    "Sheep/Personal/Lists/Travel list.md",
+    "Sheep/Lists/Travel list.md",
     "School/Calc/Calculator.md",
-    "Sheep/Personal/Countries/Japan.md",
-    "Sheep/Personal/Countries/Netherlands.md",
-    "Sheep/Personal/Countries/Switzerland.md",
-    "Sheep/Personal/Countries/Seattle.md",
-    "Sheep/Personal/Countries/Belgium.md",
-    "Sheep/Personal/Countries/Canada.md",
-    "Sheep/Personal/Countries/France.md",
+    "Sheep/Countries/Japan.md",
+    "Sheep/Countries/Netherlands.md",
+    "Sheep/Countries/Switzerland.md",
+    "Sheep/Countries/Seattle.md",
+    "Sheep/Countries/Belgium.md",
+    "Sheep/Countries/Canada.md",
+    "Sheep/Countries/France.md",
     "Daily/24-08.18-Su.md",
-    "Daily/Untitled.md",
     "Daily/~syncthing~24-08.18-Su.md.tmp",
     ",,,society/~syncthing~Sanitation.md.tmp",
     "Daily/~syncthing~24-08.17-Sa.md.tmp",
     "~syncthing~Factory Reset!.md.tmp",
-    ",,,society",
+    "Sheep/society",
     "School/Calc",
     "School",
     "archive/SheepVault/assets/Pasted image 20240720151619.png",
