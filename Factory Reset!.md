@@ -53,6 +53,7 @@ gh auth login
 # Download Portable
 - [x] WizTree https://www.diskanalyzer.com/download
 - [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
+- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
 - [x] Krita https://krita.org/en/download/
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 - [x] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
