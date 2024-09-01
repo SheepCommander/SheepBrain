@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "School/SAT/Math.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "School/SAT/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "School/SAT/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-09.01-Su.md"
+                "file": "School/SAT/Math.md"
               }
             }
           },
@@ -158,14 +158,19 @@
   },
   "active": "c3c04d4f918ac948",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Daily/24-09.01-Su.md",
+    "School/History/Ch2.md",
+    "School/SAT/Math.md",
+    "School/Driving/Driving Test.md",
+    "School/AP Phys/Units.md",
+    "School/AP Calc/Calculator.md",
+    "Life I Want.md",
     "Factory Reset!.md",
     "DRIVING LOG.md",
+    "Daily/24-09.01-Su.md",
+    "Untitled.canvas",
     "Untitled",
     "Sheep",
     "Ari",
-    "Life I Want.md",
     "Daily/24-08.26-Mo.md",
     "Daily/24-08.25-Su.md",
     "Daily/Daily Template.md",
@@ -181,12 +186,8 @@
     "Sheep/Personal/Countries/Belgium.md",
     "Sheep/Personal/Countries/Canada.md",
     "Sheep/Personal/Countries/France.md",
-    "School/Driving/Driving Test.md",
     "Daily/24-08.18-Su.md",
     "Daily/Untitled.md",
-    "assets/27-coping-mechanisms headache.md",
-    "Daily/24-08.16-Fr.md",
-    "Daily/24-08.17-Sa.md",
     "Daily/~syncthing~24-08.18-Su.md.tmp",
     ",,,society/~syncthing~Sanitation.md.tmp",
     "Daily/~syncthing~24-08.17-Sa.md.tmp",
