@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 72lgf-kx69z
+created: 2024-09-01T00:02:40-07:00
