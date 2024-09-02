@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "Factory Reset!.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "Factory Reset!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-09.01-Su.md",
+                "file": "Factory Reset!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-09.01-Su.md"
+                "file": "Factory Reset!.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +158,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30032d1b31fbe6c6",
+  "active": "20d85931e67e21a7",
   "lastOpenFiles": [
-    "Factory Reset!.md",
     "Daily/24-09.01-Su.md",
+    "Factory Reset!.md",
     "Life I Want.md",
     "DRIVING LOG.md",
     "Ari/idr.md",

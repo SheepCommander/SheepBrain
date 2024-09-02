@@ -18,6 +18,7 @@ echo stuff&
 winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
 winget install --id=Audacity.Audacity &
+winget install --id=KDE.Krita &
 winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition &
 echo awiTools&
 winget install --id=Syncthing.Syncthing &
@@ -54,7 +55,6 @@ gh auth login
 - [x] WizTree https://www.diskanalyzer.com/download
 	- [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
 	- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
-- [x] Krita https://krita.org/en/download/
 - [x] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 - [x] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [x] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
