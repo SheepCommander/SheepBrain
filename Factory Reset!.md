@@ -26,6 +26,7 @@ winget install --id=LizardByte.Sunshine &
 winget install --id=ViGEm.ViGEmBus &
 winget install --id=MoonlightGameStreamingProject.Moonlight &
 winget install --id=ZeroTier.ZeroTierOne &
+winget install --id=Balena.Etcher &
 echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
