@@ -41,7 +41,7 @@ echo %PATH:;=&echo.%
 ```
 Set path permanently
 ```cpp
-cd "C:\" & mkdir _ & setx path "%PATH%;C:\_\"
+cd C:\ & mkdir _ & setx path "%PATH%;C:\_\"
 ```
 ### Binaries to add
 - [x] Lazygit https://github.com/jesseduffield/lazygit/releases/latest
