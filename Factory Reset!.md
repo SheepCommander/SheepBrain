@@ -5,7 +5,7 @@
 # Winget
 ```js
 echo choices&
-winget install NanaZip --source msstore &
+echo winget install NanaZip --source msstore &
 winget install --id=7zip.7zip &
 echo git&
 winget install --id Git.Git -e --source winget &
