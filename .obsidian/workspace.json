@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/24-09.02-Mo.md",
+                "file": "Life I Want.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-09.02-Mo.md",
+                "file": "Life I Want.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-09.02-Mo.md",
+                "file": "Life I Want.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/24-09.02-Mo.md"
+                "file": "Life I Want.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,7 +160,6 @@
   "active": "30032d1b31fbe6c6",
   "lastOpenFiles": [
     "Factory Reset!.md",
-    "Daily/24-09.02-Mo.md",
     "Daily/24-09.01-Su.md",
     "Life I Want.md",
     "DRIVING LOG.md",
@@ -190,6 +188,7 @@
     "Sheep/Countries/Belgium.md",
     "Sheep/Countries/Canada.md",
     "Sheep/Countries/France.md",
+    "Daily/24-08.18-Su.md",
     "Daily/~syncthing~24-08.18-Su.md.tmp",
     ",,,society/~syncthing~Sanitation.md.tmp",
     "Daily/~syncthing~24-08.17-Sa.md.tmp",

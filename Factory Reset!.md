@@ -5,7 +5,7 @@
 # Winget
 ```js
 echo choices&
-echo winget install NanaZip --source msstore &
+winget install NanaZip --source msstore &
 winget install --id=7zip.7zip &
 echo git&
 winget install --id Git.Git -e --source winget &
@@ -18,7 +18,6 @@ echo stuff&
 winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
 winget install --id=Audacity.Audacity &
-winget install --id=KDE.Krita &
 winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition &
 echo awiTools&
 winget install --id=Syncthing.Syncthing &
@@ -26,7 +25,6 @@ winget install --id=LizardByte.Sunshine &
 winget install --id=ViGEm.ViGEmBus &
 winget install --id=MoonlightGameStreamingProject.Moonlight &
 winget install --id=ZeroTier.ZeroTierOne &
-winget install --id=Balena.Etcher &
 echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
@@ -42,7 +40,7 @@ echo %PATH:;=&echo.%
 ```
 Set path permanently
 ```cpp
-cd C:\ & mkdir _ & setx path "%PATH%;C:\_\"
+cd "C:\" & mkdir _ & setx path "%PATH%;C:\_\"
 ```
 ### Binaries to add
 - [x] Lazygit https://github.com/jesseduffield/lazygit/releases/latest
@@ -56,6 +54,7 @@ gh auth login
 - [x] WizTree https://www.diskanalyzer.com/download
 	- [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
 	- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
+- [x] Krita https://krita.org/en/download/
 - [x] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 - [x] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [x] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
