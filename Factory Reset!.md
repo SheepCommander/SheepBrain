@@ -13,6 +13,7 @@ winget install PowerToys --source msstore &
 winget install --id=Logitech.OptionsPlus &
 winget install --id=VideoLAN.VLC &
 winget install --id=Nvidia.GeForceExperience &
+winget install --id=AntibodySoftware.WizTree &
 echo stuff&
 winget install --id=Audacity.Audacity &
 winget install --id=Obsidian.Obsidian &
@@ -27,43 +28,29 @@ winget install --id=ZeroTier.ZeroTierOne &
 echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
+winget install --id=HeroicGamesLauncher.HeroicGamesLauncher &
 echo dev&
 winget install --id=VSCodium.VSCodium &
 winget install --id=Microsoft.VisualStudio.2022.Community &
-git config --global user.name "SheepLaptop" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com"
 echo cli&
 winget install --id=yt-dlp.yt-dlp &
 winget install --id=Gyan.FFmpeg &
-winget install --id=
-```
-# Path
-List path on separate lines
-```cpp
-echo %PATH:;=&echo.%
-```
-Set path permanently
-```cpp
-cd "C:\" & mkdir _ & setx path "%PATH%;C:\_\"
-```
-### Binaries to add
-- [ ] Lazygit https://github.com/jesseduffield/lazygit/releases/latest
-- [ ] yt-dlp https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
-- [ ] ffmpeg-full https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
-- [ ] GitHub CLI windows 386 https://github.com/cli/cli/releases/latest
-```js
+winget install --id=GitHub.cli &
+winget install --id=JesseDuffield.lazygit &
+winget install --id=Fastfetch-cli.Fastfetch &
+echo final commands&
+git config --global user.name "SheepLaptop" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com" &
 gh auth login
 ```
 # Download Portable
-- [ ] WizTree https://www.diskanalyzer.com/download
+- [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 	- [ ] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
 	- [ ] FanControl https://github.com/Rem0o/FanControl.Releases/releases
 - [ ] Krita https://krita.org/en/download/
-- [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
 - [ ] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [ ] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
 - [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
 - [ ] Starward https://github.com/Scighost/Starward/releases/latest
-- [ ] Heroic Games Launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/latest
 # Download Installer
 - [ ] Osu! https://github.com/ppy/osu
 - [ ] Syncthing Windows https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest
