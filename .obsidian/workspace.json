@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life I Want.md",
+                "file": "Daily/24-09.06-Fr.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life I Want.md",
+                "file": "Daily/24-09.06-Fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life I Want.md",
+                "file": "Daily/24-09.06-Fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life I Want.md"
+                "file": "Daily/24-09.06-Fr.md"
               }
             }
           },
@@ -153,15 +153,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "30032d1b31fbe6c6",
   "lastOpenFiles": [
+    "Life I Want.md",
+    "Daily/24-09.06-Fr.md",
     "Factory Reset!.md",
     "Daily/24-09.01-Su.md",
-    "Life I Want.md",
     "DRIVING LOG.md",
     "Ari/idr.md",
     "School/SAT/Math.md",
@@ -188,7 +189,6 @@
     "Sheep/Countries/Belgium.md",
     "Sheep/Countries/Canada.md",
     "Sheep/Countries/France.md",
-    "Daily/24-08.18-Su.md",
     "Daily/~syncthing~24-08.18-Su.md.tmp",
     ",,,society/~syncthing~Sanitation.md.tmp",
     "Daily/~syncthing~24-08.17-Sa.md.tmp",

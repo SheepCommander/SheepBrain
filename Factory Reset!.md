@@ -1,7 +1,7 @@
 # Transfer
-- [x] JKPS / Cursors / projects / videos
-- [x] Browser tabs / bookmarks
-- [x] Osu!
+- [ ] JKPS / Cursors / projects / videos
+- [ ] Browser tabs / bookmarks
+- [ ] Osu!
 # Winget
 ```js
 echo choices&
@@ -14,6 +14,7 @@ winget install EarTrumpet --source msstore &
 winget install PowerToys --source msstore &
 winget install --id=Logitech.OptionsPlus &
 winget install --id=VideoLAN.VLC &
+winget install --id=Nvidia.GeForceExperience &
 echo stuff&
 winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
@@ -43,29 +44,30 @@ Set path permanently
 cd "C:\" & mkdir _ & setx path "%PATH%;C:\_\"
 ```
 ### Binaries to add
-- [x] Lazygit https://github.com/jesseduffield/lazygit/releases/latest
-- [x] yt-dlp https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
-- [x] ffmpeg-full https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
-- [x] GitHub CLI windows 386 https://github.com/cli/cli/releases/latest
+- [ ] Lazygit https://github.com/jesseduffield/lazygit/releases/latest
+- [ ] yt-dlp https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
+- [ ] ffmpeg-full https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
+- [ ] GitHub CLI windows 386 https://github.com/cli/cli/releases/latest
 ```js
 gh auth login
 ```
 # Download Portable
-- [x] WizTree https://www.diskanalyzer.com/download
-	- [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
-	- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
-- [x] Krita https://krita.org/en/download/
-- [x] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
-- [x] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
-	- [x] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
-- [x] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
-- [x] Starward https://github.com/Scighost/Starward/releases/latest
-- [x] Heroic Games Launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/latest
+- [ ] WizTree https://www.diskanalyzer.com/download
+	- [ ] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
+	- [ ] FanControl https://github.com/Rem0o/FanControl.Releases/releases
+- [ ] Krita https://krita.org/en/download/
+- [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
+- [ ] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
+	- [ ] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
+- [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
+- [ ] Starward https://github.com/Scighost/Starward/releases/latest
+- [ ] Heroic Games Launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/latest
 # Download Installer
-- [x] Osu! https://github.com/ppy/osu
+- [ ] Osu! https://github.com/ppy/osu
 ## Steam downloads
-- [x] Godot https://godotengine.org/
-- [x] Blender
+- [ ] Godot https://godotengine.org/
+- [ ] Blender
 # Setup
 - https://web.whatsapp.com/
 - ZeroTier `b15644912e795f9c`
+- NightLight set times
