@@ -38,8 +38,8 @@ winget install --id=GitHub.cli &
 winget install --id=JesseDuffield.lazygit &
 winget install --id=Fastfetch-cli.Fastfetch &
 echo final commands&
-git config --global user.name "SheepLaptop" &&
-git config --global user.email "6646514+SheepCommander@users.noreply.github.com" &
+git config --global user.name "SheepCommander" &&
+git config --global user.email "66646514+SheepCommander@users.noreply.github.com" &
 gh auth login &
 fastfetch &
 ```
