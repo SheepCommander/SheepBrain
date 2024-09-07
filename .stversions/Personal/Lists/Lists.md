@@ -1,3 +1,0 @@
-[[Grocery list]]
-
-[[Travel list]]

@@ -1,7 +1,8 @@
-#These should probs be ignored but whatev
-#.obsidian/
-#.obsidian
+#Ignore files that shouldn't be shared
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
 
+# Things that dont need to be uploaded
 lazygit.exe
 battle block flaminngos (broken).eje
 *.eje

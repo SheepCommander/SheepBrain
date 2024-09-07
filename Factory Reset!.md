@@ -10,7 +10,6 @@ echo win11&
 winget install --id=7zip.7zip &
 winget install EarTrumpet --source msstore &
 winget install PowerToys --source msstore &
-winget install --id=Logitech.OptionsPlus &
 winget install --id=VideoLAN.VLC &
 winget install --id=Nvidia.GeForceExperience &
 winget install --id=AntibodySoftware.WizTree &
@@ -61,3 +60,4 @@ gh auth login
 - https://web.whatsapp.com/
 - [ ] ZeroTier `b15644912e795f9c`
 - [ ] NightLight set times
+- [ ] LogiOptions+
