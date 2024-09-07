@@ -1,9 +1,9 @@
 {
   "commitMessage": "{{hostname}} sync -- {{date}}",
   "commitDateFormat": "YY-MM.DD HH:mm",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 10,
   "autoPushInterval": 0,
-  "autoPullInterval": 5,
+  "autoPullInterval": 2,
   "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,

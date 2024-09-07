@@ -7,11 +7,11 @@
 echo git&
 winget install --id Git.Git -e --source winget &
 echo win11&
+winget install --id=Nvidia.GeForceExperience &
 winget install --id=7zip.7zip &
 winget install EarTrumpet --source msstore &
 winget install PowerToys --source msstore &
 winget install --id=VideoLAN.VLC &
-winget install --id=Nvidia.GeForceExperience &
 winget install --id=AntibodySoftware.WizTree &
 echo stuff&
 winget install --id=Audacity.Audacity &
@@ -38,8 +38,10 @@ winget install --id=GitHub.cli &
 winget install --id=JesseDuffield.lazygit &
 winget install --id=Fastfetch-cli.Fastfetch &
 echo final commands&
-git config --global user.name "SheepLaptop" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com" &
-gh auth login
+git config --global user.name "SheepLaptop" &&
+git config --global user.email "6646514+SheepCommander@users.noreply.github.com" &
+gh auth login &
+fastfetch &
 ```
 # Download Portable
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
@@ -61,3 +63,8 @@ gh auth login
 - [ ] ZeroTier `b15644912e795f9c`
 - [ ] NightLight set times
 - [ ] LogiOptions+
+- [ ] Syncthing sheepphone, laptop2013, ari
+```
+MI6O5JC-FSHKEYF-LXAWNRX-GZV6MCK-TQSPFUM-K4SL6XO-TA2LYED-QGFRYAH
+ZUQJBJ3-TVTMC2B-RZH5QJ4-OI535AH-GUVWJFP-CV36O2J-5VGHGWJ-GYUBKAG 
+```
