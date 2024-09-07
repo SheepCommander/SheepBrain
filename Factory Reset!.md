@@ -14,9 +14,9 @@ winget install --id=Logitech.OptionsPlus &
 winget install --id=VideoLAN.VLC &
 winget install --id=Nvidia.GeForceExperience &
 echo stuff&
+winget install --id=Audacity.Audacity &
 winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
-winget install --id=Audacity.Audacity &
 winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition &
 echo awiTools&
 winget install --id=Syncthing.Syncthing &
