@@ -31,6 +31,10 @@ echo dev&
 winget install --id=VSCodium.VSCodium &
 winget install --id=Microsoft.VisualStudio.2022.Community &
 git config --global user.name "SheepLaptop" && git config --global user.email "6646514+SheepCommander@users.noreply.github.com"
+echo cli&
+winget install --id=yt-dlp.yt-dlp &
+winget install --id=Gyan.FFmpeg &
+winget install --id=
 ```
 # Path
 List path on separate lines
