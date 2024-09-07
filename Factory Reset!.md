@@ -63,7 +63,7 @@ fastfetch &
 - [ ] ZeroTier `b15644912e795f9c`
 - [ ] NightLight set times
 - [ ] LogiOptions+
-- [ ] Syncthing sheepphone, laptop2013, ari
+- [ ] sheepphone, laptop2013, ari https://127.0.0.1:8384/
 ```
 MI6O5JC-FSHKEYF-LXAWNRX-GZV6MCK-TQSPFUM-K4SL6XO-TA2LYED-QGFRYAH
 ZUQJBJ3-TVTMC2B-RZH5QJ4-OI535AH-GUVWJFP-CV36O2J-5VGHGWJ-GYUBKAG 
