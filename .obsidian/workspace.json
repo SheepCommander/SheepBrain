@@ -11,12 +11,10 @@
             "id": "30032d1b31fbe6c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Daily/24-09.06-Fr.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/24-09.06-Fr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/24-09.06-Fr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/24-09.06-Fr.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,9 +131,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d80d4bf6cc3cc8b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,8 +161,8 @@
   },
   "active": "30032d1b31fbe6c6",
   "lastOpenFiles": [
-    "Factory Reset!.md",
     "Daily/24-09.06-Fr.md",
+    "Factory Reset!.md",
     "Life I Want.md",
     "Daily/24-09.01-Su.md",
     "DRIVING LOG.md",
