@@ -4,12 +4,10 @@
 - [ ] Osu!
 # Winget
 ```js
-echo choices&
-echo winget install NanaZip --source msstore &
-winget install --id=7zip.7zip &
 echo git&
 winget install --id Git.Git -e --source winget &
 echo win11&
+winget install --id=7zip.7zip &
 winget install EarTrumpet --source msstore &
 winget install PowerToys --source msstore &
 winget install --id=Logitech.OptionsPlus &
@@ -64,10 +62,11 @@ gh auth login
 - [ ] Heroic Games Launcher https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/latest
 # Download Installer
 - [ ] Osu! https://github.com/ppy/osu
+- [ ] Syncthing Windows https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest
 ## Steam downloads
 - [ ] Godot https://godotengine.org/
 - [ ] Blender
 # Setup
 - https://web.whatsapp.com/
-- ZeroTier `b15644912e795f9c`
-- NightLight set times
+- [ ] ZeroTier `b15644912e795f9c`
+- [ ] NightLight set times
