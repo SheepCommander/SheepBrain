@@ -19,7 +19,7 @@ winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
 winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition &
 echo awiTools&
-winget install --id=Syncthing.Syncthing &
+echo ### Get Syncthing: https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest &
 winget install --id=LizardByte.Sunshine &
 winget install --id=ViGEm.ViGEmBus &
 winget install --id=MoonlightGameStreamingProject.Moonlight &
