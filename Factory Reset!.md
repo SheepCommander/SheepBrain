@@ -1,7 +1,7 @@
 # Transfer
-- [ ] JKPS / Cursors / projects / videos
+- [ ] Cursors / projects / videos
 - [ ] Browser tabs / bookmarks
-- [ ] Osu!
+- [ ] Osu! scores
 # Winget
 ```js
 echo git&
@@ -45,16 +45,16 @@ fastfetch &
 ```
 # Download Portable
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
-	- [ ] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
-	- [ ] FanControl https://github.com/Rem0o/FanControl.Releases/releases
+	- [x] GHelper https://github.com/seerge/g-helper/releases/latest/download/GHelper.zip
+	- [x] FanControl https://github.com/Rem0o/FanControl.Releases/releases
 - [ ] Krita https://krita.org/en/download/
 - [ ] OpenTabletDriver https://github.com/OpenTabletDriver/OpenTabletDriver
 	- [ ] VMulti https://opentabletdriver.net/Wiki/FAQ/Windows#win-ink
 - [ ] RCEdit (for Godot) https://github.com/electron/rcedit/releases/latest
 - [ ] Starward https://github.com/Scighost/Starward/releases/latest
 # Download Installer
-- [ ] Osu! https://github.com/ppy/osu
-- [ ] Syncthing Windows https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest
+- [ ] Osu! https://github.com/ppy/osu/releases/latest/download/install.exe
+- [ ] Syncthing Windows https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest/download/syncthing-windows-setup.exe
 ## Steam downloads
 - [ ] Godot https://godotengine.org/
 - [ ] Blender
