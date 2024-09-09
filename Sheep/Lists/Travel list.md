@@ -6,10 +6,6 @@ Clothes:
 - [ ] Underwear 5x
 - [ ] Sandals / Shoes
 Skincare:
-- [ ] Lotion face etc
-- [ ] Lotion body
-- [ ] Soap body
-- [ ] Shampoo (Conditioner?)
 - [ ] 
 # Backpack
 Electronics:
