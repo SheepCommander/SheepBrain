@@ -62,7 +62,6 @@ fastfetch &
 - https://web.whatsapp.com/
 - [ ] ZeroTier `b15644912e795f9c`
 - [ ] NightLight set times
-- [ ] LogiOptions+
 - [ ] sheepphone, laptop2013, ari https://127.0.0.1:8384/
 ```
 MI6O5JC-FSHKEYF-LXAWNRX-GZV6MCK-TQSPFUM-K4SL6XO-TA2LYED-QGFRYAH
