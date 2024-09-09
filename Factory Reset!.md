@@ -19,7 +19,6 @@ winget install --id=Obsidian.Obsidian &
 winget install --id=OBSProject.OBSStudio &
 winget install --id=CrystalDewWorld.CrystalDiskInfo.AoiEdition &
 echo awiTools&
-echo ### Get Syncthing: https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest &
 winget install --id=LizardByte.Sunshine &
 winget install --id=ViGEm.ViGEmBus &
 winget install --id=MoonlightGameStreamingProject.Moonlight &
@@ -30,10 +29,10 @@ winget install --id=ebkr.r2modman &
 winget install --id=HeroicGamesLauncher.HeroicGamesLauncher &
 echo dev&
 winget install --id=VSCodium.VSCodium &
-winget install --id=Microsoft.VisualStudio.2022.Community &
+echo winget install --id=Microsoft.VisualStudio.2022.Community &
 echo cli&
 winget install --id=yt-dlp.yt-dlp &
-winget install --id=Gyan.FFmpeg &
+winget install --id=Gyan.FFmpeg.Shared &
 winget install --id=GitHub.cli &
 winget install --id=JesseDuffield.lazygit &
 winget install --id=Fastfetch-cli.Fastfetch &
@@ -61,7 +60,7 @@ fastfetch &
 # Setup
 - https://web.whatsapp.com/
 - [ ] ZeroTier `b15644912e795f9c`
-- [ ] NightLight set times
+- [ ] Clipboard on / NightLight times 
 - [ ] sheepphone, laptop2013, ari https://127.0.0.1:8384/
 ```
 MI6O5JC-FSHKEYF-LXAWNRX-GZV6MCK-TQSPFUM-K4SL6XO-TA2LYED-QGFRYAH
