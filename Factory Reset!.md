@@ -56,6 +56,7 @@ fastfetch &
 # Download Installer
 - [ ] Osu! https://github.com/ppy/osu/releases/latest/download/install.exe
 - [ ] Syncthing Windows https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest/download/syncthing-windows-setup.exe
+- [ ] Printer https://ij.manual.canon/ij/webmanual/WebGS/WGS2/wgs_start.html?lng=en&type=setup&area=us&mdl=TR7020a&os=w
 ## Steam downloads
 - [ ] Godot https://godotengine.org/
 - [ ] Blender
