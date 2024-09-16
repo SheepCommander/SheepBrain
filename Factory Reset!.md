@@ -32,7 +32,7 @@ winget install --id=VSCodium.VSCodium &
 echo winget install --id=Microsoft.VisualStudio.2022.Community &
 echo cli&
 winget install --id=yt-dlp.yt-dlp &
-winget install --id=Gyan.FFmpeg.Shared &
+winget install --id=Gyan.FFmpeg &
 winget install --id=GitHub.cli &
 winget install --id=JesseDuffield.lazygit &
 winget install --id=Fastfetch-cli.Fastfetch &
