@@ -10,5 +10,5 @@
 | Quantity | SI Units | English Unit | Symbol |
 | -------- | -------- | ------------ | ------ |
 | Speed (s) | meters/second (m/s) | ft/s | |
-| Acceleration (a) | $m/s^2$ | ft/s^2 |  |
-| Force (F) | Newtons (N) (kg*m/s^2) | lb | |
+| Acceleration (a) | $m/s^2$ | $ft/s^2$ |  |
+| Force (F) | Newtons (N) ($kg*m/s^2$) | lb | |
