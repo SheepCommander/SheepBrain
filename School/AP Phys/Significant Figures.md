@@ -19,7 +19,7 @@ Result: 855 000
 # % Uncertainty
 uncertainty / measurement * 100
 
-10,000y uncertainty / 50,000y measurement = 20% uncertainty!
+10,000y uncertainty / 50,000y measurement = 20% uncertainty! <br>
 0.02g uncertainty / 36.45g measurement = 5.4% uncertainty!
 
 ---
