@@ -2,7 +2,7 @@
 ## Fundamental Units
 | Quantity | SI Units | English Unit | Symbol |
 | -------- | -------- | ------------ | ------ |
-| Distance<br>(l)(d)(Δx) | meter (m) | foot (ft) | |
+| Distance<br>$(l)(d)(Δx)$ | meter (m) | foot (ft) | |
 | Time (t) | seconds (s) | second (s) | |
 | Mass (m) | Kilogram (kg) | slug | |
 
