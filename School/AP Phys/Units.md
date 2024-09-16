@@ -1,7 +1,7 @@
-| prefix                                                                      | short                                | factor |
-| --------------------------------------------------------------------------- | ------------------------------------ | ------ |
-| mega<br>kilo<br>deci d<br>centi c<br>milli m<br>micro μ<br>nano n<br>pico p | M<br>k<br>d<br>c<br>m<br>μ<br>n<br>p |        |
-|                                                                             |                                      |        |
+| prefix                                                          | short                                | factor |
+| --------------------------------------------------------------- | ------------------------------------ | ------ |
+| mega<br>kilo<br>deci<br>centi<br>milli<br>micro<br>nano<br>pico | M<br>k<br>d<br>c<br>m<br>μ<br>n<br>p |        |
+|                                                                 |                                      |        |
 
 | prefix | short | factor |
 | --- | --- | --- |
