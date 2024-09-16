@@ -4,7 +4,7 @@
 | -------- | -------- | ------------ | ------ |
 | Distance<br>$(l)(d)(Δx)$ | meter (m) | foot (ft) | |
 | Time (t) | seconds (s) | second (s) | |
-| Mass (m) | Kilogram (kg) | slug | |
+| Mass (m) | Kilogram (kg) | slug (NOT lb) | |
 
 ## Derived Units
 | Quantity | SI Units | English Unit | Symbol |
