@@ -12,6 +12,7 @@ Ex problem:
 | 1   | 5    | -1   |
 | 2   |      | -3   |
 | 3   |      | -5   |
+
 Even is like a parabola (Symmetrical over the y-axis!)
 
 Odd is like a cubic (rotated 180 around origin) (Symmetrical over either y=x or y=-x)
