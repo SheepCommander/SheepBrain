@@ -27,7 +27,7 @@ established how do you think it was different from a Royal Colony.
 
 
 5. The Virginia Company granted land to settlers who could pay their own passage, plus additional
-land to the settler for each person he brought with him. This is known as the Headright System. **What are 3 possible social consequences of this system.**
+land to the settler for each person he brought with him. This is known as the Headright System. What are 3 possible social consequences of this system.
 - Instead of paying for land, investors could sponsor immigrants. By getting settlers & land owners to pay for transportation of new members, the Virginia Company could bring new labor and increase population in Virginia for minimal cost.
 - However, those who were already there could use the headright system to gain more and more of the coastal/good land, while new settlers would have to fight at the frontiers/interior for worse land.
 - Many immigrants who started as indentured servants could become landowners, however disparity between newer & older settlers would eventually lead to Bacon’s rebellion.
