@@ -8,8 +8,8 @@ Health % <-- knockback <-- BLAST ZONE
 Press right stick, or press left stick & A at same time.
 
 **Aerials**
-- Fair
-- Bair
+- Fair - Forward Air
+- Bair - Back Air
 - Dair
 - Nair
 - Uair
@@ -35,14 +35,18 @@ Full Hop / Short Hop / Multi jump
 # Super Armor
 Heavy characters completely immune to all knockback during certain moves
 # Mash to get out of holds
----
-Good Spacing! <- Safe Moves
 
-Neutral: Match starts in neutral, u get put in Disadvantage (off-stage, above opponent).  (Good Neutral = good in neutral)
-Juggle them! Edgeguard them!
 # Out of shield
 Jump, UpB, Down Smash
+# Reverse Aerial Rush (RAR)
+While dashing, turn around as you jump
+# Smash DI
 
 ---
 SD - Self Destruct
 0 - Death   JV4
+
+Good Spacing! <- Safe Moves
+
+Neutral: Match starts in neutral, u get put in Disadvantage (off-stage, above opponent).  (Good Neutral = good in neutral)
+Juggle them! Edgeguard them!
