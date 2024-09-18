@@ -41,7 +41,7 @@ Jump, UpB, Down Smash
 # Reverse Aerial Rush (RAR)
 While dashing, turn around as you jump
 # Smash DI
-Holding up and pressing jump may get u out
+Tapping in any direction during the 2nd hitlag frame & onward, to escape combos or tech off walls
 # B Reverse
 In the air reverse direction & special
 # Jab Lock
