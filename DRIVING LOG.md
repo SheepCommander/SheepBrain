@@ -27,3 +27,4 @@ At 4:30 we drove around practicing U-Turns, until 5:48. We did not have time to 
 
 # Monday, Sep 9
 At 6:24pm after picking up my license plate, I drove home for 10 minutes.
+
