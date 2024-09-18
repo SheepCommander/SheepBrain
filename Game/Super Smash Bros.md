@@ -49,6 +49,9 @@ After they bounce on ground, hit them with a weak move & send them sideways to f
 # Footstool Jump
 Jump off opp's head: Grounded=stun Air=tumble
 - **Must wait 16 frames after last attack to footstool** / Can be short hopped
+# Trip
+Trips if target is not already sitting & knockback doesnt knock target into the air.
+- Kirby: Down tilt (close, tip)  (30%, 35%)
 
 ---
 -Ledge options(invuln/roll/jump/etc.) -Tech options(roll, neutral) -jump cancel(out of chargeable moves) -Neutral Air dodge vs DI Air Dodge -Shieldstun: prevents defender from moves
