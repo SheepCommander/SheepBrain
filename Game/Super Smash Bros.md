@@ -13,8 +13,6 @@ Press right stick, or press left stick & A at same time.
 - Dair
 - Nair
 - Uair
-
-- ZAir - Grab aerial!! Extend forward & strike opponents with weak damage and knockback! (Either press Grab in air, or hold shield + A)
 # Specials (B)
 UpB, DownB, SideB, NeutralB
 
