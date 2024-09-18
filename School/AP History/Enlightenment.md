@@ -13,6 +13,7 @@
 
 # Political Developments - Geography
 > The geography of the colonies made a centralized gov't impossible to enforce. So  a decentralized form developed, where real power came from the colonists not England.
+
 3 geographic influences on government
 1. Distance from England - Ocean Away
 2. Distance between colonies, capitals, towns, & settlements
