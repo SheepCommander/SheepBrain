@@ -43,7 +43,7 @@ While dashing, turn around as you jump
 # Smash DI
 Holding up and pressing jump may get u out
 # B Reverse
-
+In the air reverse direction & special
 
 ---
 SD - Self Destruct
