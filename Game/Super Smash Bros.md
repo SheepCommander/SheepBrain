@@ -48,7 +48,7 @@ Holding up and pressing jump may get u out
 In the air reverse direction & special
 # Jab Lock
 After they bounce on ground, hit them with a weak move & send them sideways to follow up with anything!
-
+Press
 ---
 SD - Self Destruct
 0 - Death   JV4
