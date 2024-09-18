@@ -40,7 +40,7 @@ Heavy characters completely immune to all knockback during certain moves
 Jump, UpB, Down Smash
 # Reverse Aerial Rush (RAR)
 While dashing, turn around as you jump
-# Smash DI
+# Smash DI (SDI)
 Tapping in any direction during the 2nd hitlag frame & onward, to escape combos or tech off walls
 # B Reverse
 In the air reverse direction & special
