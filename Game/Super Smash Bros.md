@@ -53,6 +53,8 @@ Jump off opp's head: Grounded=stun Air=tumble
 ---
 -Ledge options(invuln/roll/jump/etc.) -Tech options(roll, neutral) -jump cancel(out of chargeable moves) -Neutral Air dodge vs DI Air Dodge -Shieldstun: prevents defender from moves
 
+concept: -lag(landing & ending)
+
 ---
 
 SD - Self Destruct
