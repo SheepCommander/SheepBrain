@@ -23,4 +23,26 @@ Throw them by pressing into a direction
 # Shield
 Shield damage -> SHIELD BREAK (stun)
 Shield poke (u can move shield with stick to stop this)
-# Spot dodge/roll
+
+**Spot dodge/Roll** - shield + direction
+**Airdodge** - shield in air
+# Movement
+Full Hop / Short Hop / Multi jump
+
+**Recovery**: Double jumps, air dodges, Up B
+**Tumble**: When knocked back u start tumbling through air. Press Shield at right time to do a **Tech** & recover
+**Spike**: hitting down
+# Super Armor
+Heavy characters completely immune to all knockback during certain moves
+# Mash to get out of holds
+---
+Good Spacing! <- Safe Moves
+
+Neutral: Match starts in neutral, u get put in Disadvantage (off-stage, above opponent).  (Good Neutral = good in neutral)
+Juggle them! Edgeguard them!
+# Out of shield
+Jump, UpB, Down Smash
+
+---
+SD - Self Destruct
+0 - Death   JV4
