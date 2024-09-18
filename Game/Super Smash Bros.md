@@ -51,7 +51,7 @@ Jump off opp's head: Grounded=stun Air=tumble
 - **Must wait 16 frames after last attack to footstool** / Can be short hopped
 
 ---
--Ledge options(invuln/roll/jump/etc.) -Tech options(roll, neutral) -jump cancel(out of chargeable moves) 
+-Ledge options(invuln/roll/jump/etc.) -Tech options(roll, neutral) -jump cancel(out of chargeable moves) -Neutral Air dodge vs DI Air Dodge -
 
 ---
 
