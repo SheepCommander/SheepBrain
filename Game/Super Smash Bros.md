@@ -41,6 +41,9 @@ Jump, UpB, Down Smash
 # Reverse Aerial Rush (RAR)
 While dashing, turn around as you jump
 # Smash DI
+Holding up and pressing jump may get u out
+# B Reverse
+
 
 ---
 SD - Self Destruct
