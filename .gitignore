@@ -2,6 +2,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
 
+# Syncthing trashbin
+.stfolder/
+
 # Things that dont need to be uploaded
 lazygit.exe
 battle block flaminngos (broken).eje
