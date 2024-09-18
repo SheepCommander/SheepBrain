@@ -30,5 +30,6 @@
     "editor:insert-callout",
     "editor:insert-table"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source"
 }
