@@ -1,4 +1,4 @@
-https://youtu.be/a4Mtj69JuQA
+https://youtu.be/a4Mtj69JuQA?lc=UgxDLrGZtUogBQl0T8x4AaABAg
 Health % <-- knockback <-- BLAST ZONE
 # Normals (A)
 **Jab**: press A attack. Twice for combo. A lot of times for rapid jab.
