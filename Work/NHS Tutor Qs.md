@@ -6,7 +6,7 @@ We have all needed help at some time, either with academics or other.  Please sh
 > After confirming exactly what they need and in the process getting a general idea of where they're at, it tends to become exponentially easier to help them through the problem!
 > But, sometimes the communication mismatch can be so bad I still don't know what they need or despite using beginner-friendly language they still don't get it, the best course of action is usually either to have a second person connect with them or to have the student take the lead and accomodate them while they do their best to show you what they're working on.
 
-Rank these in order of importance in your own mind as a tutor.  
+Rank these in order of importance in your own mind as a tutor.[^1]
 > 1. The student works through a problem or task themselves, with encouragement.
 > 2. You learn a little bit about the student.
 > 3. Together, you identify a clear topic to work on.
@@ -17,3 +17,10 @@ For your top-ranked item, explain why you chose that as most important.
 
 What concerns, if any, do you have about tutoring?
 > There's the concern of wanting to be able to help any student who comes to me and making sure they leave having been helped in one way, but I've had extensive experience helping beginners through computer science topics and I believe I'm overprepared in this aspect and ready to tutor anyone.
+
+---
+[^1]: Apparently this has a correct answer in the context of NHS and it is:
+  1. You learn a little bit about the student
+  2. The student shows you what they have been working on in class.
+  3. Together, you identify a clear topic to work on.
+  4. The student works through a problem or task themselves, with encouragement.
