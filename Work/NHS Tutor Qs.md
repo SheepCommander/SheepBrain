@@ -20,7 +20,7 @@ What concerns, if any, do you have about tutoring?
 
 ---
 [^1]: Apparently this has a correct answer in the context of NHS and it is:
-  1. You learn a little bit about the student
-  2. The student shows you what they have been working on in class.
-  3. Together, you identify a clear topic to work on.
-  4. The student works through a problem or task themselves, with encouragement.
+  1- You learn a little bit about the student
+  2- The student shows you what they have been working on in class.
+  3- Together, you identify a clear topic to work on.
+  4- The student works through a problem or task themselves, with encouragement.
