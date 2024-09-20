@@ -15,7 +15,7 @@
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
-  "treeStructure": true,
+  "treeStructure": false,
   "refreshSourceControl": false,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
@@ -50,7 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": true,
-    "gutterSpacingFallbackLength": 20,
+    "gutterSpacingFallbackLength": 19,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "natural language"
   },
