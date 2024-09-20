@@ -27,6 +27,7 @@ echo game&
 winget install --id=Valve.Steam &
 winget install --id=ebkr.r2modman &
 winget install --id=HeroicGamesLauncher.HeroicGamesLauncher &
+winget install --id=Vencord.Vesktop &
 echo dev&
 winget install --id=VSCodium.VSCodium &
 echo winget install --id=Microsoft.VisualStudio.2022.Community &
