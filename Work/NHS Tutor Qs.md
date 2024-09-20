@@ -7,10 +7,10 @@ We have all needed help at some time, either with academics or other.  Please sh
 > But, sometimes the communication mismatch can be so bad I still don't know what they need or despite using beginner-friendly language they still don't get it, the best course of action is usually either to have a second person connect with them or to have the student take the lead and accomodate them while they do their best to show you what they're working on.
 
 Rank these in order of importance in your own mind as a tutor.  
-1. The student works through a problem or task themselves, with encouragement.
-2. You learn a little bit about the student.
-3. Together, you identify a clear topic to work on.
-4. The student shows you what they have been working on in class.
+> 1. The student works through a problem or task themselves, with encouragement.
+> 2. You learn a little bit about the student.
+> 3. Together, you identify a clear topic to work on.
+> 4. The student shows you what they have been working on in class.
 
 For your top-ranked item, explain why you chose that as most important.
 > As a tutor, I really want to see students learn how to work through a problem by themselves so they can do it in the future without help. But as person-to-person, I would actually put "Learn a little bit about the student" as number one as I love to meet interesting people.
