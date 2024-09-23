@@ -1,13 +1,1 @@
 
-
-## Stress
-
-
-## ADHD
-
-
-## Gender
-
-
----
-#daily 
