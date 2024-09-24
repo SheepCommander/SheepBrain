@@ -2,7 +2,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "assets",
+  "attachmentFolderPath": "{assets}",
   "userIgnoreFilters": [
     "assets/",
     "templates/"
