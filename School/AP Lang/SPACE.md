@@ -1,0 +1,5 @@
+- Speaker
+- Purpose
+- Audience
+- Context
+- Exigence
