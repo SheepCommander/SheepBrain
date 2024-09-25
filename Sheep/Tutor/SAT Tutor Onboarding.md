@@ -7,3 +7,8 @@ My learners are only talking in chat, not verbally.
 
 "I taught a good lesson even though the students didn't learn it."
 WRONG
+
+# Language matters
+NOT "any questions" do "What are your questions?"
+
+NOT "looks like u got this right" do "Could you share how you approached this one?"
