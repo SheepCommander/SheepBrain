@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "d31353bc75830a0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96110e191fc4a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad07c1ce6019bab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sheep/Tutor/SAT Tutor Onboarding.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf9a899e97e4b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e3dd5f004e6b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41049f818c9c0bff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38bdc434be626483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7a714ef057ae9ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "348c32a304bdd2ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "442e0b3b4892223f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "806febd5965bc066",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sheep/Tutor/SAT Tutor Onboarding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5547b28ac63681ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sheep/Tutor/SAT Tutor Onboarding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb769e606580f37f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27df9998c6159df7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sheep/Tutor/SAT Tutor Onboarding.md"
+              }
+            }
+          },
+          {
+            "id": "34ab496e3736cc98",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bdddbd03da3dc2a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "334e5c2f2ad5854f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "ad07c1ce6019bab8",
+  "lastOpenFiles": [
+    "Sheep/Tutor/SAT Tutor MARS Other.md",
+    "Sheep/Tutor/SAT Tutor Onboarding.md",
+    "Sheep/Tutor/SAT Tutor MARS Module 4.md",
+    "{assets}/Dominion of New England map.png",
+    "AMSCO textbook 2016.pdf",
+    "AMSCO 2016 text.pdf",
+    "amsco_2016_searchable.pdf",
+    "{assets}/27-coping-mechanisms headache.md",
+    "{assets}/synthetic-division-example-440830281.png",
+    "Sheep/Notes/Boundaries.md",
+    "Sheep/Church/Church.md",
+    "Sheep/Church",
+    "Sheep/Game & Digital/Super Smash Bros.md",
+    "Sheep/Game & Digital/7zip.md",
+    "Daily/24-09.24-Tu.md",
+    "Sheep/Tutor",
+    "School/AP Lang/SPACE.md",
+    "School/AP History/North Middle South.md",
+    "School/AP Calc/Pre- PreCalc review.md",
+    "Factory Reset!.md",
+    "Daily/Daily Template.md",
+    "Daily/sortspec",
+    "Daily/24-09.23-Mo.md",
+    "Daily/24-09.22-Su.md",
+    "Daily/24-09.22-Su.sync-conflict-20240923-144852-DNAFW3V.md",
+    "conflict-files-obsidian-git.md",
+    "Sheep/Tutor/SAT Tutor MARS Module 3.md",
+    "Sheep/Tutor/SAT Tutor MARS Module 2.md",
+    "Sheep/Tutor/SAT Tutor MARS Module 1.md",
+    "School/AP Phys/Equations.md",
+    "APUSH textbook 1.pdf",
+    "{assets}/domain range mistake.jpg",
+    "Daily/sortspec.md",
+    "Daily/24-09.21-Sa.md",
+    "Daily/24-09.18-We.md",
+    "Sheep/Game & Digital",
+    "Work",
+    "{assets}",
+    "SheepBrain/{assets}/synthetic-division-example-440830281.png"
+  ]
+}
