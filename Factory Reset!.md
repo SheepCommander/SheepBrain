@@ -1,3 +1,5 @@
+firefox -new-tab URL -preferences -search "github" -setDefaultBrowser -url URL URL URL
+
 # Transfer
 - [ ] Cursors / projects / videos
 - [ ] Browser tabs / bookmarks
