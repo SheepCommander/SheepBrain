@@ -1,5 +1,0 @@
-1. **Importance of the First Session:** Set the tone for the four weeks ahead
-2. **Start of Every Session:** Linger on the icebreaker, ask follow-up questions, encourage learners to talk to one another, not just to you.
-3. **Throughout every session,** smth idk
-
-My learners are only talking in chat, not verbally.
