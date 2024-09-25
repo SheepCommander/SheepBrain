@@ -4,3 +4,6 @@
 
 My learners are only talking in chat, not verbally.
 **"Ask the student to solve the question on the board, while explaining it at the same time."**
+
+"I taught a good lesson even though the students didn't learn it."
+WRONG
