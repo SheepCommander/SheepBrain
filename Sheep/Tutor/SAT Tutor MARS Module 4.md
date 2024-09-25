@@ -71,7 +71,7 @@ After your session, be sure to report the user.
 # Slur
 death
 
-# Screen sharing images
+# Screen sharing inappropriate images
 "stop sharing", remove,  apology, report
 
 # End Meeting For All
