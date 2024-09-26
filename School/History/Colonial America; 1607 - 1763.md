@@ -13,7 +13,7 @@
 
 1634 [[Maryland founded]]
 
-1636 [[Rhode Island founded]]
+1636 ![[Rhode Island founded]]
 
 ![[Harvard College]]
 

@@ -1,2 +1,1 @@
-# Harvard College
-1636 Puritans create harvard to train ministers.
+Puritan College founded in Massachusetts to train ministers.
