@@ -14,9 +14,9 @@
 
 1636 ![[Rhode Island founded]]
 
-![[Harvard College]]
+  ![[Harvard College]]
 
-[[Puritan-Pequot War]]
+  [[Puritan-Pequot War]]
 
 1639 [[Fundamental Orders of Connecticut]]
 
@@ -27,3 +27,21 @@
 1664 [[New Netherlands becomes New York]]
 
 1675 ![[King Philip's War]]
+
+1676 [[Bacon's Rebellion]]
+
+1681 [[Pennsylvania founded]]
+
+1686 [[Dominion of New England Established]]
+
+1692 [[Salem Witchcraft hysteria]]
+
+1733 [[Georgia as the last of the 13 colonies]]
+
+1733 [[Molasses Act]]
+
+1734-56 [[Great Awakening]]
+
+1735 [[Zenger Trial]]
+
+1739 [[Stono Rebellion]]
