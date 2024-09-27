@@ -1,3 +1,5 @@
+https://ultimateframedata.com/kirby
+
 https://youtu.be/a4Mtj69JuQA?lc=UgxDLrGZtUogBQl0T8x4AaABAg
 Health % <-- knockback <-- BLAST ZONE
 # Normals (A)
