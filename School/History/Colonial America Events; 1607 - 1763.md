@@ -27,5 +27,3 @@
 1664 [[New Netherlands becomes New York]]
 
 1675 ![[King Philip's War]]
-
-
