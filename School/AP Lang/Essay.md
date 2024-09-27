@@ -1,0 +1,1 @@
+https://writingcenterofprinceton.com/thesis_statement_formula_for_ap_english_rhetorical_analysis_essays/
