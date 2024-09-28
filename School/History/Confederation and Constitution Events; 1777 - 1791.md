@@ -2,7 +2,7 @@
 
 1783 [[Treaty of Paris]]
 
-  [[British troops in NW]]
+	[[British troops in NW]]
 
 1784 [[Spain closes New Orleans]]
 
@@ -12,9 +12,9 @@
 
 1787 [[Northwest Ordinance]]
 
-  [[Constitutional Convention]]
+	[[Constitutional Convention]]
 
-  [[Federalist Papers]]
+	[[Federalist Papers]]
 
 1788 [[Ratification of the Constitution]]
 

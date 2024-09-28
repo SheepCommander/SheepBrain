@@ -4,7 +4,7 @@ The Federalist Era
 
 1791 [[First National Bank of US chartered]]
 
-  [[Vermont joins the Union]]
+	[[Vermont joins the Union]]
 
 1792-3 [[Two political parties develop]]
 
@@ -12,24 +12,24 @@ The Federalist Era
 
 1795 [[Jay's Treaty]]
 
-  [[Pickney's Treaty]]
+	[[Pickney's Treaty]]
 
 1796 [[Washington's farewell address]]
 
-  [[Two term tradition]]
+	[[Two term tradition]]
 
 1797 [[XYZ Affair]]
 
 1798 [[Undeclared naval war with France]] (to 1800)
 
-  [[Alien Acts]]
+	[[Alien Acts]]
 
-  [[Sedition Act]]
+	[[Sedition Act]]
 
-  [[Kentucky and Virginia Resolutions]]
+	[[Kentucky and Virginia Resolutions]]
 
 1800 [[Washington DC established]] ("Logrolling")
 
-  [[Election of 1800]]
+	[[Election of 1800]]
 
-  [[Federalist Judges]]
+	[[Federalist Judges]]

@@ -4,7 +4,7 @@
 
 1619 [[Virginia House of Burgesses]]
 
-[[First African Slaves Brought to Virginia]]
+	[[First African Slaves Brought to Virginia]]
 
 1620 [[Mayflower Compact]]
 

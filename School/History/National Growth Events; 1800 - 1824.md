@@ -4,17 +4,17 @@ Growth of Nationalism Events; 1800 - 1824
 
 1803 ==[[Marbury v. Madison]]==
 
-  [[Louisiana Purchase]]
+	[[Louisiana Purchase]]
 
 1084 [[Burr - Hamilton Duel]]
 
-  [[12th Amendment]]
+	[[12th Amendment]]
 
 1804-06 [[Lewis & Clark Expedition]]
 
 1807 [[Chesapeake Incident]]
 
-  [[Embargo Act]]
+	[[Embargo Act]]
 
 1808 [[Slave Trade ends]]
 
@@ -34,7 +34,7 @@ Growth of Nationalism Events; 1800 - 1824
 
 1819 [[Adam-Onis Treaty]]
 
-  [[McCulloch v. Maryland]]
+	[[McCulloch v. Maryland]]
 
 1820 [[Collapse of the Federalist Party]]
 
@@ -44,4 +44,4 @@ Growth of Nationalism Events; 1800 - 1824
 
 1824 [['Corrupt Bargain' election]]
 
-  ==[[Gibbons v Ogden]]==
+	[[Gibbons v Ogden]]
