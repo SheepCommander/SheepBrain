@@ -1,6 +1,6 @@
 The Federalist Era
 
-1789 [[Judiciary Act of 
+1789 [[Judiciary Act of 1789]]
 
 1791 [[First National Bank of US chartered]]
 
