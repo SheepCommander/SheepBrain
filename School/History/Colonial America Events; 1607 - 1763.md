@@ -12,11 +12,11 @@
 
 1634 [[Maryland founded]]
 
-1636 ![[Rhode Island founded]]
+1636 [[Rhode Island founded]]
 
-  ![[Harvard College]]
+	[[Harvard College]]
 
-  [[Puritan-Pequot War]]
+	[[Puritan-Pequot War]]
 
 1639 [[Fundamental Orders of Connecticut]]
 
@@ -26,7 +26,7 @@
 
 1664 [[New Netherlands becomes New York]]
 
-1675 ![[King Philip's War]]
+1675 [[King Philip's War]]
 
 1676 [[Bacon's Rebellion]]
 
