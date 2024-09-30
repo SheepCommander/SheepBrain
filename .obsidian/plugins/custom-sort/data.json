@@ -5,7 +5,7 @@
   "statusBarEntryEnabled": false,
   "notificationsEnabled": true,
   "mobileNotificationsEnabled": true,
-  "customSortContextSubmenu": false,
+  "customSortContextSubmenu": true,
   "automaticBookmarksIntegration": true,
   "bookmarksContextMenus": true,
   "bookmarksGroupToConsumeAsOrderingReference": "sortspec"
