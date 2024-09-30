@@ -1,4 +1,3 @@
-Constantly changing:
 APUSH:
 - [ ] Ch6 Qs
 
@@ -15,9 +14,8 @@ PE184:
 SAT Tutor:
 
 ---
-Long-term:
 Dermatologist
-
 HRT
-
 Skincare
+- CS50 motherfucker
+- Internships
