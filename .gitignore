@@ -2,8 +2,10 @@
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
 
-# Syncthing trashbin
+# Syncthing folder marker
 .stfolder/
+# Syncthing trashbin
+.stversions/
 
 # Things that dont need to be uploaded
 lazygit.exe
