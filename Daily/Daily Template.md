@@ -1,4 +1,4 @@
-- [ ] Check [[Daily Tracking]]
+- [ ] Update [[Daily Tracking]]
 - [ ] Shower
 - [ ] Voice training
 - [ ] Voice training
