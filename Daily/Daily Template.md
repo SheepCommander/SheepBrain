@@ -1,11 +1,11 @@
-[[Daily Tracking]]
+- [ ] Check [[Daily Tracking]]
+- [ ] Shower
 How are you feeling?
 
 How's Ari?
 
-
-Did u shower?
-
-
 Were u productive?
 
+ADHD:
+
+Gender:
