@@ -1,19 +1,19 @@
-- [ ] Update [[Daily Tracking]]
+- [ ] Wash face + Put on sunscreen
+How are you feeling?
+
+How's Ari?
+
+Were u productive? [[Daily Tracking]]
+
+School:
+- [ ] Sunscreen @ noon
+---
+Home:
 - [ ] Shower
 - [ ] Voice training
 - [ ] Voice training
 - [ ] Voice training
 - [ ] Stretching
-How are you feeling?
-
-How's Ari?
-
-Were u productive?
-
-ADHD:
-
-Gender:
-
 ---
 - [ ] Godot
 - [ ] Refill waterbottle
