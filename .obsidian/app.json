@@ -4,8 +4,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "{assets}",
   "userIgnoreFilters": [
-    "assets/",
-    "templates/"
+    "{assets}"
   ],
   "mobileToolbarCommands": [
     "editor:undo",

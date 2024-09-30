@@ -1,6 +1,20 @@
-#Ignore files that shouldn't be shared
+# Ignore files that shouldn't be shared
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
+.obsidian/types.json
+.obsidian/graph.json
+
+# Ignore everything within .obsidian/ 
+#####.obsidian/*
+
+# Include files that should be shared
+!.obsidian/app.json
+!.obsidian/daily-notes.json
+
+# Include everything within .obsidian/plugins
+!.obsidian/plugins/
+!.obsidian/plugins/*
+
 
 # Syncthing folder marker
 .stfolder/
@@ -9,5 +23,4 @@
 
 # Things that dont need to be uploaded
 lazygit.exe
-battle block flaminngos (broken).eje
 *.eje
