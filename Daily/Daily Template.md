@@ -1,5 +1,9 @@
 - [ ] Check [[Daily Tracking]]
 - [ ] Shower
+- [ ] Voice training
+- [ ] Voice training
+- [ ] Voice training
+- [ ] Stretching
 How are you feeling?
 
 How's Ari?
