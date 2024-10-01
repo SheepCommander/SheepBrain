@@ -1,7 +1,7 @@
 {
   "commitMessage": "{{hostname}} sync -- {{date}}",
   "commitDateFormat": "YY-MM.DD HH:mm",
-  "autoSaveInterval": 0.5,
+  "autoSaveInterval": 2,
   "autoPushInterval": 0,
   "autoPullInterval": 2,
   "autoPullOnBoot": true,
@@ -14,7 +14,7 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "",
