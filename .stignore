@@ -9,3 +9,6 @@
 // Include everything within .obsidian/plugins
 !.obsidian/plugins/
 !.obsidian/plugins/*
+
+.git/*
+!.stignore
