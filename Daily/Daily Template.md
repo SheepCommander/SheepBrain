@@ -1,4 +1,4 @@
-- [ ] Wash face + Put on sunscreen
+- [ ] Wash face, Put on sunscreen, Jojoba oil
 - [ ] Bring water bottle
 How are you feeling?
 
