@@ -1,0 +1,12 @@
+{
+  "additionalSortspecFile": "",
+  "indexNoteNameForFolderNotes": "",
+  "suspended": false,
+  "statusBarEntryEnabled": false,
+  "notificationsEnabled": true,
+  "mobileNotificationsEnabled": true,
+  "customSortContextSubmenu": true,
+  "automaticBookmarksIntegration": true,
+  "bookmarksContextMenus": true,
+  "bookmarksGroupToConsumeAsOrderingReference": "sortspec"
+}
