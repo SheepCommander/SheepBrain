@@ -12,7 +12,7 @@
 ---
 Home:
 - [ ] Shower
-	- [ ] Oil cleanser, derma cleanser, 
+	- [ ] Cleanse / toner / pure emulsion / moisturizer
 - [ ] Voice training
 - [ ] Voice training
 - [ ] Voice training
