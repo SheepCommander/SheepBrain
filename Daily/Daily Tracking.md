@@ -10,6 +10,8 @@ AP Lang:
 - [ ] Essay
 - [ ] Extra essay misogynists~
 - [ ] Memorize rhetorical device terms
+- [ ] Test format
+- [ ] Memorize rubric
 
 AP Phys:
 - [ ] Khan academy practice/ Watch vids, deep understanding
