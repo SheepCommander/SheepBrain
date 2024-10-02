@@ -31,5 +31,3 @@ https://clinicaltrials.gov/study/NCT03804710
 https://www.health.harvard.edu/staying-healthy/the-science-of-sunscreen
 https://pubmed.ncbi.nlm.nih.gov/10343939/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3583892/
-https://amazon.com/Nexcare-Absorbing-Cover-Sizes-Count/dp/B00BRGUNV2
-https://amazon.com/Mighty-Patch-Hydrocolloid-Absorbing-count/dp/B074PVTPBW
