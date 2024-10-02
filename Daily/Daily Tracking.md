@@ -15,6 +15,8 @@ AP Lang:
 
 AP Phys:
 - [ ] Watch vids for deep understanding
+- [ ] GET AHEAD BY ALL MEANS
+- [ ] See previous FRQs
 
 JP IV:
 - [ ] Go through every link
