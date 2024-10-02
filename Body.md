@@ -15,9 +15,17 @@ Bug bite scars / Leg blemishes:
 - 
 Foot blemishes: 
 - 
-Skin color:
-- 
+Soles:
+- Exfoliator? Lotion? Probably fine!
+Skin tone:
+- Sunscreen
+- UPF 50+ Clothes
+- Toner
 
+
+
+Spider veins: 
+- laser?
 
 Hair:
 - Laser removal
