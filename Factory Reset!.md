@@ -1,8 +1,9 @@
+```c
 firefox -preferences -setDefaultBrowser -url "https://github.com/ppy/osu/releases/latest/download/install.exe" "https://github.com/Bill-Stewart/SyncthingWindowsSetup/releases/latest/download/syncthing-windows-setup.exe" "https://ij.manual.canon/ij/webmanual/WebGS/WGS2/wgs_start.html?lng=en&type=setup&area=us&mdl=TR7020a&os=w"
-
+```
 # Transfer
 - [ ] Cursors / projects / videos /PASSWORDS - onedrive
-- [ ] Browser tabs / bookmarks
+- [ ] Browser tabs
 - [ ] Osu! scores
 # Winget
 ```js
@@ -75,3 +76,4 @@ ZUQJBJ3-TVTMC2B-RZH5QJ4-OI535AH-GUVWJFP-CV36O2J-5VGHGWJ-GYUBKAG
 Z3GDGXE-3DROE35-KWSDDEW-ZDWGAQX-CFUTNKT-HPHGWPY-5EW5HQM-YVTEJQD
 ```
 github_pat_11AP4PD4Q0BvW8XsnHgmQ3_B3PLRVz6gTH4093w5xoPzwGEODcGxHnVCUfq0JUgdWQOB4P5UY7X6OYhCu a
+Syncthing: Actions / Advanced / Folders / folder / Max Conflicts: 0
