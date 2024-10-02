@@ -31,11 +31,17 @@ SAT / SAT Tutor:
 Internship SCHS:
 - [ ] Email Mr Watson, figure out dates
 
+Driving:
+- [ ] Drive in driveway
+
+Internship search:
+- [ ] research
+- [ ] GAIN PROGRAMMING XP
+
 
 ---
 PARENT FOLLOW UP: Dermatologist; HRT; Blood;
 - CS50 motherfucker
-- Internships
 - Godot/programming/NVim
 - Skincare
 
