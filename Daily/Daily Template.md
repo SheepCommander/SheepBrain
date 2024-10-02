@@ -6,6 +6,8 @@
 
 **School: Were u productive?** [[Daily Tracking]]
 
+**Notes:**
+
 - [ ] Sunscreen @ noon
 ---
 Home:
