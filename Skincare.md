@@ -3,3 +3,9 @@
 - [Neutrogena Healthy Defense Daily Moisturizer with Helioplex, SPF 50](http://www.amazon.com/Neutrogena-Healthy-Defense-Moisturizer-Helioplex/dp/B003156NH0/ref=sr_1_1?s=beauty&ie=UTF8&qid=1434573782&sr=1-1&keywords=Neutrogena+Healthy+Defense+Daily+Moisturizer+with+Helioplex%2C+SPF+50&pebp=1434573784322&perid=0D94J21WZAFKHGX7YJ4D) (lightweight and non-greasy)
 **For dry/sensitive skin**
 - [Tizo Solar Protection Formula, Facial Mineral Fusion SPF 40](http://www.amazon.com/Solar-Protection-Formula-Mineral-Formulation/dp/B003SRIN0G/ref=sr_1_1?s=beauty&ie=UTF8&qid=1434573870&sr=1-1&keywords=Tizo+Solar+Protection+Formula%2C+Facial+Mineral+Fusion+SPF+40&pebp=1434573871995&perid=03TK60HWREA6RGTJS6WW) (great physical sunscreen with a light tint)
+**For dark skin**
+- [La Roche Posay Anthelios SPF 60](http://www.amazon.com/Roche-Posay-Anthelios-Sunscreen-1-7-Ounce-Bottle/dp/B002CML1XE/ref=sr_1_1?s=beauty&ie=UTF8&qid=1434573904&sr=1-1&keywords=La+Roche+Posay+Anthelios+SPF+60) (no cast)
+
+Tips:
+- Applying moisturiser beforehand facilitates smooth application without annoying pilling (like when little white bits come off—ugh).
+- 
