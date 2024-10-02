@@ -4,7 +4,7 @@ Acne:
 - Oil cleanser
 - Derma cleanser
 - Milk emulsion thing
-- ... exfoliant
+- ... exfoliant? moisturizer?? ;efawofe;
 
 Chest Arms blah Legs: E
 
@@ -13,3 +13,4 @@ Hair:
 
 Skin:
 - Lotion
+- 
