@@ -1,6 +1,9 @@
 Hair: Idk! Hairstyle: Idk! Brows: Idk!
 Chest Arms Skin blah Legs: E
 
+Eye bags:
+- 
+
 Face Acne:
 - Cleanse / toner / pure emulsion / moisturizer
 Back acne:
@@ -34,7 +37,7 @@ Finger nails:
 Toe nails:
 - FILE SIDES SO IM NO LONGER POKING MYSELF!!
 
-Spider veins: 
+Spider veins / Dilated veins: 
 - laser?
 
 Hair:
