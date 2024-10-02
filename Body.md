@@ -22,7 +22,8 @@ Skin tone:
 - UPF 50+ Clothes
 - Toner
 
-Knees & E
+Knees & Elbows:
+- 
 
 Finger nails:
 - Germanikure glass etched nail file
