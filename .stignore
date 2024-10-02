@@ -10,5 +10,4 @@
 !.obsidian/plugins/
 !.obsidian/plugins/*
 
-.git/*
 !.stignore
