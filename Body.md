@@ -13,4 +13,11 @@ Hair:
 
 Skin:
 - Lotion
-- 
+- fuck if i remember
+
+Hands:
+- Moisturizer / Handcream
+- Sunscreen
+- Jojoba oil
+Nails:
+- Pusher, remover, nipper, file, jojoba oil, cream
