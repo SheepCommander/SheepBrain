@@ -20,6 +20,8 @@
 .stfolder/
 # Syncthing trashbin
 .stversions/
+!.stignore
+
 
 # Things that dont need to be uploaded
 lazygit.exe
