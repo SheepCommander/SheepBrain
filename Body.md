@@ -1,12 +1,10 @@
 Hair: Idk! Hairstyle: Idk! Brows: Idk!
 
 Acne:
-- Oil cleanser
-- Derma cleanser
-- Milk emulsion thing
-- ... exfoliant? moisturizer?? ;efawofe;
+- Cleanse / toner / pure emulsion / moisturizer
 
 Chest Arms blah Legs: E
 
 Hair:
 - Laser removal
+
