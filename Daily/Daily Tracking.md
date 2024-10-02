@@ -27,6 +27,11 @@ SAT / SAT Tutor:
 - [ ] Make plan this Thursday
 - [ ] Take practice test this Thursday
 - [ ] Practice Wed
+
+Internship SCHS:
+- [ ] Email Mr Watson, figure out dates
+
+
 ---
 PARENT FOLLOW UP: Dermatologist; HRT; Blood;
 - CS50 motherfucker
