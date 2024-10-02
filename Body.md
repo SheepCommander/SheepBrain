@@ -10,7 +10,3 @@ Chest Arms blah Legs: E
 
 Hair:
 - Laser removal
-
-Skin:
-- Lotion
-- 
