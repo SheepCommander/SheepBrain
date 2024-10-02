@@ -14,19 +14,19 @@ AP Lang:
 - [ ] Memorize rubric
 
 AP Phys:
-- [ ] Khan academy practice/ Watch vids, deep understanding
+- [ ] Watch vids for deep understanding
 
 JP IV:
 - [ ] Go through every link
 - [ ] Do that one assignment
+- [ ] KANJI NOTES
 
 SAT / SAT Tutor:
 - [ ] Make plan this Thursday
 - [ ] Take practice test this Thursday
-- [ ] Practice Tue
 - [ ] Practice Wed
 ---
-PARENT FOLLOW UP: Dermatologist; HRT;
+PARENT FOLLOW UP: Dermatologist; HRT; Blood;
 - CS50 motherfucker
 - Internships
 - Godot/programming/NVim
