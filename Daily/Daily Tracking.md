@@ -40,6 +40,8 @@ Internship search:
 
 ---
 PARENT FOLLOW UP: Dermatologist; HRT; Blood;
+- [ ] Sign up all AP exams on Oct 7
+- [ ] Sign up SAT
 - CS50 motherfucker
 - Godot/programming/NVim
 - Skincare
