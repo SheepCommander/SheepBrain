@@ -44,10 +44,11 @@ winget install --id=Fastfetch-cli.Fastfetch &
 echo final commands&
 git config --global user.name "SheepCommander" &&
 git config --global user.email "66646514+SheepCommander@users.noreply.github.com" &
-gh auth login &
 cd Desktop &
 git clone https://github.com/SheepCommander/SheepBrain &
 fastfetch &
+gh auth login &
+
 ```
 # Download Portable
 - [ ] TrenchBroom https://github.com/TrenchBroom/TrenchBroom
