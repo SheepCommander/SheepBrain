@@ -3,7 +3,6 @@ APUSH:
 - [ ] Figure out what's ACTUALLY important for AP test
 
 AP Calc:
-- [ ] Submit HW
 - [ ] Get ahead of class by another unit
 
 AP Lang:
