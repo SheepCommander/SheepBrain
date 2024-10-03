@@ -1,6 +1,5 @@
-# Rational Functions
-$$ {x + 1}/{5x - 3} $$
+Powers same: 
+- look at co efficient
 
-Find:
-- Holes / Asymptotes (probably asymptote)
-- What function approaches as x → ∞
+Bottom power bigger: 
+- 
