@@ -12,7 +12,7 @@ winget install --id Git.Git -e --source winget &
 echo win11&
 winget install --id=Nvidia.GeForceExperience &
 winget install --id=7zip.7zip &
-echo# winget install "nanazip preview" --source=msstore --accept-package-agreements &
+echo winget install "nanazip preview" --source=msstore --accept-package-agreements &
 winget install EarTrumpet --source msstore &
 winget install PowerToys --source msstore &
 winget install --id=VideoLAN.VLC &
