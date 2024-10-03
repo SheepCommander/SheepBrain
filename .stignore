@@ -11,5 +11,5 @@
 !.obsidian/plugins/*
 
 !.stignore
-//.git/
-//.git/*
+.gitignore/
+.gitignore/*
