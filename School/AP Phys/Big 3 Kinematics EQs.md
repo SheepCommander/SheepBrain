@@ -7,4 +7,4 @@ $v^2=v_0^2+2a(x-x_0)$
 ---
 others idk 
 
-$v_{avg}={v-v_0}/2$
+$v_{avg}=(v-v_0)/2$
