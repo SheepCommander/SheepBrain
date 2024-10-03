@@ -1,4 +1,4 @@
-- [ ] Wash face, Put on sunscreen, Jojoba oil
+- [ ] Wash face, Put on sunscreen, Jojoba oil, Mouthwash
 - [ ] Bring water bottle
 **How are you feeling?**
 
@@ -13,6 +13,7 @@
 Home:
 - [ ] Shower
 	- [ ] Cleanse / toner / pure emulsion / moisturizer
+	- [ ] Mouthwash
 - [ ] Voice training
 - [ ] Voice training
 - [ ] Voice training

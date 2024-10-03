@@ -45,4 +45,4 @@ PARENT FOLLOW UP: Dermatologist; HRT; Blood;
 - Godot/programming/NVim
 - Skincare
 
-~~PE 184~~ Easily done in freetime @ school :D
+PE 184
