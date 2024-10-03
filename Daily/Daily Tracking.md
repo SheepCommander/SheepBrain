@@ -45,4 +45,6 @@ PARENT FOLLOW UP: Dermatologist; HRT; Blood;
 - Godot/programming/NVim
 - Skincare
 
-PE 184
+PE 184: November
+- [ ] Journal Nov 10, 17, 24
+- [ ] Final paper Nov 27
