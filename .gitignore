@@ -14,7 +14,7 @@
 # Include everything within .obsidian/plugins
 !.obsidian/plugins/
 !.obsidian/plugins/*
-
+!.obsidian/plugins/**
 
 # Syncthing folder marker
 .stfolder/
