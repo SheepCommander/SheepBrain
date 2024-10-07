@@ -11,12 +11,12 @@ Middle
 $$
 A\approx\sum_{i=0}^{n-1}\Delta{x}*f(a+\frac{\Delta{x}}{2}+\Delta{x}i)
 $$
-Trapezoid Rule
+Trapezoid Rule   ($\Delta{x}=)
 $$
-A\approx\frac{1}{2}(a+b)h
+A_{trapezoid}=\frac{1}{2}(a+b)h
 $$
 $$
-A\approx{h}(\frac{y_1}{2}+y_2+y_3+...+y_8+\frac{y_9}{2})
+A\approx{\Delta{x}}(\frac{y_1}{2}+y_2+y_3+...+y_8+\frac{y_9}{2})
 $$
 
 
