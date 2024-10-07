@@ -1,8 +1,10 @@
 Overall count: 
-40 minutes @ day  + 30 minutes @ night
-
 # Sunday, October 6th
-
+I drove 60 minutes with my dad at might from home, to school, to Hamlin parking lot, back home, then from home to QFC then back home. 
+I drove the entire way with no switching. 
+6:58pm to 8pm
+# September
+I drove very short distances
 # Saturday, May 11th
 I drove half an hour at evening from 8:30 to 9:02pm with my dad in the passenger seat.
 
