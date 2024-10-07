@@ -16,8 +16,9 @@ $$
 A\approx\frac{1}{2}(a+b)h
 $$
 $$
-A\approx{h}(\frac{x_1}{2})
+A\approx{h}(\frac{y_1}{2}+y_2+y_3+...+y_8+\frac{y_9}{2})
 $$
+
 
 ---
 $[a , b]$
