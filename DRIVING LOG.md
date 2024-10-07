@@ -1,6 +1,8 @@
 Overall count: 
 40 minutes @ day  + 30 minutes @ night
 
+# Sunday, October 6th
+
 # Saturday, May 11th
 I drove half an hour at evening from 8:30 to 9:02pm with my dad in the passenger seat.
 
