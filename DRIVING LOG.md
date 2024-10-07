@@ -4,7 +4,7 @@ I drove 60 minutes with my dad at might from home, to school, to Hamlin parking 
 I drove the entire way with no switching. 
 6:58pm to 8pm
 # September
-I drove very short distances
+I drove very short distances at day for 10 minutes each or up and down and circles in my driveway for 5 minutes
 # Saturday, May 11th
 I drove half an hour at evening from 8:30 to 9:02pm with my dad in the passenger seat.
 
