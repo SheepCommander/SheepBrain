@@ -23,5 +23,5 @@ $$
 ---
 $[a , b]$
 $n =$ # of rects,
-$\Delta{x} = \frac{(b-a)/n$
+$\Delta{x} = \frac{(b-a)}{n}$
 > "midpoint Riemann Sum" - using a summation of rectangles to approximate area under a curve.
