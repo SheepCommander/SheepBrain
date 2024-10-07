@@ -11,7 +11,7 @@ Middle
 $$
 A\approx\sum_{i=0}^{n-1}\Delta{x}*f(a+\frac{\Delta{x}}{2}+\Delta{x}i)
 $$
-Trapezoid Rule   ($\Delta{x}=)
+Trapezoid Rule   ($\Delta{x}=h$)
 $$
 A_{trapezoid}=\frac{1}{2}(a+b)h
 $$
@@ -22,6 +22,6 @@ $$
 
 ---
 $[a , b]$
-n = # of rects,
-$\Delta{x}$ = (b-a)/n
-> "midpoint Riemann Sum"
+$n =$ # of rects,
+$\Delta{x} = \frac{(b-a)/n$
+> "midpoint Riemann Sum" - using a summation of rectangles to approximate area under a curve.
