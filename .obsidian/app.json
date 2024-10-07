@@ -27,7 +27,10 @@
     "editor:toggle-numbered-list",
     "editor:configure-toolbar",
     "editor:insert-callout",
-    "editor:insert-table"
+    "editor:insert-table",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste"
   ],
   "promptDelete": false,
   "propertiesInDocument": "source"
