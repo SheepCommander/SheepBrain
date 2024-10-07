@@ -7,3 +7,5 @@ $$\log_{10}x < \log_5{x} < \log_2{x}$$
 
 $$\frac{x^3+x^2+...}{x^3+...}$$
 Powers same, check coefficients.
+
+Powers different,
